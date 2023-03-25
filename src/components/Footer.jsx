@@ -16,24 +16,24 @@ const Footer = () => {
             <div className='flex justify-between'>
                 <div>
                     <p className='text-xl font-bold py-2'>Useful Links</p>
-                    <p className='py-2 cursor-pointer'>Content</p>
-                    <p className='py-2 cursor-pointer'>How it Works</p>
-                    <p className='py-2 cursor-pointer'>Create</p>
-                    <p className='py-2 cursor-pointer'>Explore</p>
-                    <p className='py-2 cursor-pointer'>Terms & Services</p>
+                    <p className='py-2 cursor-pointer hover:text-teal-400'>Content</p>
+                    <p className='py-2 cursor-pointer hover:text-teal-400'>How it Works</p>
+                    <p className='py-2 cursor-pointer hover:text-teal-400'>Create</p>
+                    <p className='py-2 cursor-pointer hover:text-teal-400'>Explore</p>
+                    <p className='py-2 cursor-pointer hover:text-teal-400'>Terms & Services</p>
                 </div>
                 <div>
                     <p className='text-xl font-bold py-2'>Community</p>
-                    <p className='py-2 cursor-pointer'>Help Center</p>
-                    <p className='py-2 cursor-pointer'>Partners</p>
-                    <p className='py-2 cursor-pointer'>Suggestions</p>
-                    <p className='py-2 cursor-pointer'>Blog</p>
-                    <p className='py-2 cursor-pointer'>Newsletters</p>
+                    <p className='py-2 cursor-pointer hover:text-teal-400'>Help Center</p>
+                    <p className='py-2 cursor-pointer hover:text-teal-400'>Partners</p>
+                    <p className='py-2 cursor-pointer hover:text-teal-400'>Suggestions</p>
+                    <p className='py-2 cursor-pointer hover:text-teal-400'>Blog</p>
+                    <p className='py-2 cursor-pointer hover:text-teal-400'>Newsletters</p>
                 </div>
                 <div>
                     <p className='text-xl font-bold py-2'>Partner</p>
-                    <p className='py-2 cursor-pointer'>Our Partner</p>
-                    <p className='py-2 cursor-pointer'>Become a Partner</p>
+                    <p className='py-2 cursor-pointer hover:text-teal-400'>Our Partner</p>
+                    <p className='py-2 cursor-pointer hover:text-teal-400'>Become a Partner</p>
                 </div>
             </div>
         </div>
