@@ -13,7 +13,7 @@ const Footer = () => {
                 <img src={logo} />
                 <p className='py-4 text-xl'>A new way to make the payments easy, reliable and secure.</p>
             </div>
-            <div className='flex justify-between'>
+            <div className='flex justify-between gap-8'>
                 <div>
                     <p className='text-xl font-bold py-2'>Useful Links</p>
                     <p className='py-2 cursor-pointer hover:text-teal-400'>Content</p>
